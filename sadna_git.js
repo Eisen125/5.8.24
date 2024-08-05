@@ -1,2 +1,1 @@
-const x = 5
-const x = 6
+const x=14 
